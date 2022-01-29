@@ -1,5 +1,5 @@
 cls
-#made by jkgaming
+rem made by jkgaming
 menu:
 	cls
 	playerHP=10
